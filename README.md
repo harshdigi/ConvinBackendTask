@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # ConvinBackendTask
 =======
 Task -> 
@@ -39,4 +39,3 @@ reference -> https://developers.google.com/identity/protocols/oauth2/web-server
 
 Install Requirments using ->
 pip install - r requriments.txt
->>>>>>> b490e811a4230809ff1ae61997ae66a32f1c0d88
